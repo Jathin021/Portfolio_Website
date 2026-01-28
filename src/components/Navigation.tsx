@@ -49,7 +49,7 @@ const Navigation = () => {
               <Cpu className="h-4 w-4 text-primary" />
             </div>
             <span className="text-foreground">
-              Jathin<span className="text-primary">.</span>
+              Jathin Pusuluri
             </span>
           </a>
 
